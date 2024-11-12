@@ -1,0 +1,189 @@
+.App {
+  text-align: center;
+  height: 100%;
+  
+}
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+#tsparticles {
+  position: fixed !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  width: 100%;
+  height: 100%;
+}
+
+
+/* .home-about-description{
+  background-color: #495C83 !important;
+  padding: 20px;
+  margin-bottom: 10px;
+  margin-top: 100px;
+  color: white;
+} */
+ .home-div{
+  height: 100%;
+  background-color: #495C83 !important;
+  background-image: linear-gradient(40deg, white, #1e66aa);
+  
+}
+/* CSS Styles for Premium Display */
+.premium-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.premium-text {
+  font-family: monospace;
+  font-weight: 400;
+  font-size: 2.5rem; /* Adjust font size as needed */
+  border: 3px double #4CAF50; /* Adjust border width and color */
+  padding: 15px 10px; /* Adjust padding */  
+  display: inline-block;
+  border-radius: 10px; /* Adjust border radius */
+  background-color: #E8F5E9; /* Adjust background color */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adjust box shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transition effect */
+}
+
+.premium-text:hover {
+  transform: translateY(-5px); /* Adjust hover effect */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adjust hover box shadow */
+}
+
+
+
+
+.home-section {
+  height: 100%;
+  width: 100%;
+  align-content: center;
+  padding-bottom: 30px !important;
+  padding-top: 30px !important;
+}
+
+.home-content {
+  width: 100%;
+  /* padding-left:10% !important; */
+  color: whitesmoke;
+  text-align: center;
+}
+
+.heading {
+  font-size: 3.5em !important;
+  padding-left: 50px !important;
+  padding-top: 5%;
+  z-index: 1;
+  font-weight: 900;
+}
+
+.heading-name {
+  font-size: 2.5em !important;
+  padding-left: 45px !important;
+  
+}
+
+
+/* workpage */
+/* .work-img{
+  max-width: 450px !important;
+  max-height: 450px !important;
+  padding:20px !important;
+  object-fit: cover !important;
+}
+.work-img:hover{
+  transform: scale(1.2);
+  opacity: 0.8;
+} */
+
+/* About */
+/* .skill_icon{
+  border:"double";
+   padding:"10px";
+    margin:"10px";
+} */
+/* .skill_icon:hover{
+  transform: scale(1.2);
+} */
+
+
+/* @media (max-width: 767px) {
+  .work-img{
+    max-width: 250px !important;
+    max-height: 250px !important;
+    padding:20px !important;
+    object-fit: cover !important;
+  }
+  .youtube{
+    max-height: '243px'!important;
+    max-width: '384px' !important;
+  }
+} */
+
+/* --------- */
+/* Footer */
+/* --------- */
+/* .footer {
+  background-color: rgb(28, 28, 29);
+  bottom: 0 !important;
+  padding-top: 10px !important;
+  padding-bottom: 8px !important ;
+} 
+.footer-body {
+  z-index: 1;
+  text-align: center !important;
+} */
+
+/* .footer-copywright {
+  text-align: center !important;
+} */
+/* .footer h3 {
+  font-size: 1em;
+  color: rgb(204, 219, 242) !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
+.footer-icons {
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+  padding: 0 !important;
+}
+.social-icons {
+  display: inline !important;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: rgb(204, 219, 242) !important;
+}
+@media (max-width: 767px) {
+  .footer-copywright {
+    text-align: center !important;
+  }
+
+  .footer-body {
+    text-align: center !important;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+} */
